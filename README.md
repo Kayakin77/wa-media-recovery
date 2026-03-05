@@ -14,3 +14,4 @@ Tested on **Termux** and standard Linux environments:
 ```bash
 pkg install sqlite python
 pip install pycryptodome requests
+
